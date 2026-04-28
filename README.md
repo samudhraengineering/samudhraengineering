@@ -41,8 +41,7 @@ We are an engineering-focused software team bridging the gap between **industria
 ---
 
 ### 📬 Reach Us
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 📧 Email: contact@samudhraengineering.com
+- 📧 Email: samudhraengineering@gmail.com
 
 ---
 
