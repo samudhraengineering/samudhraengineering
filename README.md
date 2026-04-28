@@ -26,7 +26,6 @@ We are an engineering-focused software team bridging the gap between **industria
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PEGA](https://img.shields.io/badge/-PEGA-00A8E0?style=flat&logo=pega&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Excel%20Macros-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
