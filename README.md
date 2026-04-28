@@ -42,6 +42,7 @@ We are an engineering-focused software team bridging the gap between **industria
 
 ### 📬 Reach Us
 - 📧 Email: samudhraengineering@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/samudhra-engineering/)
 
 ---
 
